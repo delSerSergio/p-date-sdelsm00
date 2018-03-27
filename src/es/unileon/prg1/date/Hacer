@@ -1,0 +1,30 @@
+Hay que creear tres constructores: 
+	1: uno con 3 parametros.
+	2: 0 parametros.
+	3: 1 parametro(date). un contrustor creado permite copiarlo.
+
+8 metodos "isSame".
+
+clase date 3 variables(day, month, year) con get(day, month, year) y set(date, month, year)
+
+comparar si los dias, meses y años (una fecha dada) es igual a una fecha metida en la memoria.
+
+crear otros cuatro metodos sin usar if, con expresiones booleana.
+
+tres metodos para imprimir nombres (getMonthName), comprobar si el dia esta bien(isDayRight(int dia))
+
+imprimir meses que quedan hasta final de año (getMonthsLeft)
+
+toString hecho
+
+escribir metodo para escribir fechas hasta que se acabe el mes (getDaysLeftOfMonths)
+
+dar los meses con el mismo numero de dias en el mes (getMonthsSameDays)
+	
+escoger numeros hasta acertar el elegido (numRandomTriesEqualsDate1):
+	1.utilizando while.
+	2. utilizando do-while.
+
+conociendo el dia de la semana del primer dia del año, mostrar el dia de la semana de la fecha dada(dayOfWeek)
+
+Introducir el dia de hoy, y que nos aparezca el dia de mañana(tomorrow)
